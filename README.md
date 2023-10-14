@@ -1,0 +1,2 @@
+# mygit
+Basic learning - git
